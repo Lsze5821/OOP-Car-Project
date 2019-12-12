@@ -10,7 +10,9 @@ I made this program at FGCU for OOP.
 [JavaDoc](https://lsze5821.github.io/OOP-Car-Project/)
 
 ## Diagrams
+**Class Diagrams**
 
+![Diagram](CarDiagram.png)
 
 ## Getting Started
 
