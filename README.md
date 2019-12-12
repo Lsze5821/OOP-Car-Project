@@ -1,11 +1,13 @@
 # Project Title
 **OOP-Car-Project**
 
-
+This car project is focuses on modeling business problems using java class, creating classes immutable, and user interfaces.
+I created this project alone, this project was made for a assignment called Personal Project.
+I made this program at FGCU for OOP.
 
 ## Documentation
 
-
+[JavaDoc](https://lsze5821.github.io/OOP-Car-Project/)
 
 ## Diagrams
 
