@@ -72,7 +72,7 @@ Personal Project OOP Car Program
 * 11/20/19 - 2 hours - Create a concrete class named Car that extends the Vehicle class.
 * 11/27/19 - 2 hours - Review and edit.
 * 12/4/19 - 2 hours - Final review and debug.
-* 12/9/19 - Submit Personal Project.
+* 12/11/19 - Submit Personal Project.
 
 
 ## Key Programming Concepts Utilized
