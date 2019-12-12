@@ -15,6 +15,24 @@ I made this program at FGCU for OOP.
 ![Diagram](CarDiagram.png)
 
 ## Getting Started
+Make sure that JRE is installed:
+* Java version "1.8.x_xx" (or a higher version)
+
+Clone from Github:
+* Click on "Clone or download".
+* Either Download the Zip file or clone the HTTPS.
+* If you Download the Zip
+* Unzip and open project in the IDE
+
+Clone From IDE:
+* File > New > Project From version control > Enter URL/HTTP > Choose the directory for project > clone
+
+Creating Path to Database:
+* Database tab > Plus sign > Data source from path > Choose directory for database (ex: Lib Folder) > h2 > test connection > apply
+* Check the database password inside the properties folder.
+
+Linking Jar file:
+* File > Project structure > Modules > Dependencies > Find and Choose jar file > apply
 
 
 
