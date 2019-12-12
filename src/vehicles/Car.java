@@ -4,10 +4,11 @@ import java.util.Date;
 
 /**
  * This is the car class extending vehicle.
- *
- * <p></p>author Louis Sze 12/11/2019
+ * <p>
+ * author Louis Sze 12/11/2019
  */
 public class Car extends Vehicle {
+
   //creating an array and car Axle
   private Feature[] feature = new Feature[10];
   private int carAxle;
