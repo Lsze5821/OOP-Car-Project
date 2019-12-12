@@ -31,10 +31,12 @@ I made this program at FGCU for OOP.
 
 ## License
 
-
+[BSD 3-Clause License](https://github.com/Lsze5821/OOP-Car-Project/blob/master/LICENSE)
 
 ## Acknowledgments
-
+  **Oracle**
+* Java Programming
+* 2-1: Java Class Design - Interfaces
 
 ## History
 Personal Project OOP Car Program
