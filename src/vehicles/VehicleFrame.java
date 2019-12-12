@@ -36,7 +36,6 @@ public class VehicleFrame implements Chassis {
 
   /**
    * Sets data to be Accessed.
-   *
    * @param vehicleFrameType Passing a single string param vehicle frame type
    */
   public void setChassisType(String vehicleFrameType) {
