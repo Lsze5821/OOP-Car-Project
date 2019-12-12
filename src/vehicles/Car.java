@@ -3,9 +3,9 @@ package vehicles;
 import java.util.Date;
 
 /**
- * This is the car class extending vehicle.
- * <p>
- * author Louis Sze 12/11/2019
+ * This is car class that extends vehicle to access its data.
+ *
+ * @author Louis Sze 12/11/2019
  */
 public class Car extends Vehicle {
 
